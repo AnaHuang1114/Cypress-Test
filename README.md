@@ -25,6 +25,7 @@ npx cypress open
 6. 將 cypress.config.js 與 cypress.env.json 內容更新至專案根目錄下的相對應同名檔案中
 
 8. 於 GUI 中選擇 spec 即會開始 run 該 spec 的 test
- 
 
 #### **cypress.config.js 中的 baseUrl 可以依據測試網址更換
+
+有圖版：[https://hackmd.io/@nP0msUSITkiNmKKPDJl8Mw/HkY_2mcah](https://hackmd.io/@nP0msUSITkiNmKKPDJl8Mw/HkY_2mcah)
