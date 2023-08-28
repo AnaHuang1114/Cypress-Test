@@ -28,4 +28,3 @@ npx cypress open
 
 #### **cypress.config.js 中的 baseUrl 可以依據測試網址更換
 
-有圖版：[https://hackmd.io/@nP0msUSITkiNmKKPDJl8Mw/HkY_2mcah](https://hackmd.io/@nP0msUSITkiNmKKPDJl8Mw/HkY_2mcah)
