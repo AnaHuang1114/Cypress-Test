@@ -27,4 +27,4 @@ npx cypress open
 8. 於 GUI 中選擇 spec 即會開始 run 該 spec 的 test
 
 #### **cypress.config.js 中的 baseUrl 可以依據測試網址更換
-
+#### **cypress.env.json 中的 email 與 password 填入會員帳號的 email 與 password
